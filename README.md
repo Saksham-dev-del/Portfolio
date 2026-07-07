@@ -42,7 +42,7 @@ Welcome to the interactive 3D portfolio of **Saksham Saxena**, an aspiring AI/ML
 
 ---
 
-*Content customized by Saksham Saxena. Original interactive 3D template by [Tomasz Szmajda (ITom Dev)](https://itomdev.com).*
+
 
 
 🔗 **Live Demo:** [saksham-saxena-portfolio.vercel.app](https://saksham-saxena-portfolio.vercel.app/)
