@@ -37,9 +37,6 @@ Welcome to the interactive 3D portfolio of **Saksham Saxena**, an aspiring AI/ML
 > [!IMPORTANT]
 > Since this project heavily utilizes `vite-plugin-compression` and hundreds of high-res textures, your initial local load might take a few seconds as the dev-server buffers asset delivery. For performance testing, always run `npm run build && npm run preview`.
 
-## License
-
-The code architecture in this repository is based on an open-source template originally built by Tomasz Szmajda, licensed under the [MIT License](LICENSE). Content, copywriting, and project data have been customized by Saksham Saxena.
 
 **Note:** Per the original author's terms, the hand-drawn 3D textures, illustrations, and visual assets are separately copyrighted and not covered by the MIT grant — see LICENSE and original repository for details.
 
